@@ -37,9 +37,11 @@ h1{
 
 #container-1{
     width: auto;
-    margin-top: 50px;
+    margin-top: 5px;
     margin-left: 300px;
     margin-right: 300px;
+    padding-left:60px;
+    padding-bottom: 60px;
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
 }
@@ -72,3 +74,110 @@ h1{
     border-radius: 5px;
     cursor: pointer;
 }
+
+ul{
+    list-style-type: none;
+    padding-top: 30px;
+}
+
+
+h2{
+    display: inline-block;
+    font-size: 30px
+}
+
+.rounded{
+    display: inline-block;
+    height: 20px;
+    width: 70px;
+    border-radius: 15px;
+    padding: 3px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20px;
+    font-size: 13px;
+    background-color: rgb(97, 170, 229);
+    color: rgb(255, 255, 255);
+}
+
+#rounded-purple{
+    display: inline-block;
+    height: 20px;
+    width: 70px;
+    border-radius: 15px;
+    padding: 3px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20px;
+    font-size: 13px;
+    background-color: rgb(149, 119, 221);
+    color: rgb(255, 255, 255);
+}
+
+#rounded-green{
+    display: inline-block;
+    height: 20px;
+    width: 70px;
+    border-radius: 15px;
+    padding: 3px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20px;
+    font-size: 13px;
+    background-color: rgb(123, 189, 170);
+    color: rgb(255, 255, 255);
+}
+
+#rounded-orange{
+    display: inline-block;
+    height: 20px;
+    width: 70px;
+    border-radius: 15px;
+    padding: 3px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20px;
+    font-size: 13px;
+    background-color: rgb(230, 161, 75);
+    color: rgb(255, 255, 255);
+}
+
+#rounded-pink{
+    display: inline-block;
+    height: 20px;
+    width: 70px;
+    border-radius: 15px;
+    padding: 3px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20px;
+    font-size: 13px;
+    background-color: rgb(202, 107, 159);
+    color: rgb(255, 255, 255);
+}
+
+#rounded-light-green{
+    display: inline-block;
+    height: 20px;
+    width: 70px;
+    border-radius: 15px;
+    padding: 3px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20px;
+    font-size: 13px;
+    background-color: rgb(181, 199, 73);
+    color: rgb(255, 255, 255);
+}
+
+p{
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.symbol{
+    margin-left: 10px;
+}
+
+
