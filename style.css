@@ -25,3 +25,50 @@ h1{
     font-size: 50px;
     vertical-align: middle;
 }
+
+#container{
+    width: auto;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+#container-1{
+    width: auto;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+#button-1{
+    background-color: rgb(98, 172, 235);
+    border: none;
+    color: white;
+    padding: 8px 18px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#button-2{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(215, 219, 222);
+    color: rgb(215, 219, 222);
+    padding: 6px 18px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
