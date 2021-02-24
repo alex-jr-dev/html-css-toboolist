@@ -98,78 +98,31 @@ h2{
     vertical-align: middle;
     line-height: 20px;
     font-size: 13px;
+    color: rgb(255, 255, 255);
+}
+
+.rounded-blue{
     background-color: rgb(97, 170, 229);
-    color: rgb(255, 255, 255);
 }
 
-#rounded-purple{
-    display: inline-block;
-    height: 20px;
-    width: 70px;
-    border-radius: 15px;
-    padding: 3px;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 20px;
-    font-size: 13px;
+.rounded-purple{
     background-color: rgb(149, 119, 221);
-    color: rgb(255, 255, 255);
 }
 
-#rounded-green{
-    display: inline-block;
-    height: 20px;
-    width: 70px;
-    border-radius: 15px;
-    padding: 3px;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 20px;
-    font-size: 13px;
+.rounded-green{
     background-color: rgb(123, 189, 170);
-    color: rgb(255, 255, 255);
 }
 
-#rounded-orange{
-    display: inline-block;
-    height: 20px;
-    width: 70px;
-    border-radius: 15px;
-    padding: 3px;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 20px;
-    font-size: 13px;
+.rounded-orange{
     background-color: rgb(230, 161, 75);
-    color: rgb(255, 255, 255);
 }
 
-#rounded-pink{
-    display: inline-block;
-    height: 20px;
-    width: 70px;
-    border-radius: 15px;
-    padding: 3px;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 20px;
-    font-size: 13px;
+.rounded-pink{
     background-color: rgb(202, 107, 159);
-    color: rgb(255, 255, 255);
 }
 
-#rounded-light-green{
-    display: inline-block;
-    height: 20px;
-    width: 70px;
-    border-radius: 15px;
-    padding: 3px;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 20px;
-    font-size: 13px;
+.rounded-light-green{
     background-color: rgb(181, 199, 73);
-    color: rgb(255, 255, 255);
 }
 
 p{
